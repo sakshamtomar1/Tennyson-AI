@@ -1,0 +1,6 @@
+assistant:
+  name: "Tennyson"
+  wake_words: ["hey tennyson", "tennyson", "wake up"]
+  default_model: "openai" # options: openai, gemini, ollama
+database:
+  path: "memory.db"

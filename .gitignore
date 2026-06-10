@@ -1,0 +1,13 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Database & Data
+memory.db
+*.db
+
+# macOS System Files
+.DS_Store
